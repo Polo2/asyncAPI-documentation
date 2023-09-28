@@ -1,7 +1,7 @@
-asyncapi: 2.6
+asyncapi: "2.6"
 info:
   title: Petstore
-  version: 1.0.0
+  version: "1.0.1"
   description: The PetStore running in Kafka
 channels:
   petstore.order.added:
@@ -220,4 +220,3 @@ components:
           type: string
       xml:
         name: "##default"
-
