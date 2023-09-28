@@ -1,4 +1,4 @@
-asyncapi: "2.6"
+asyncapi: "2.5"
 info:
   title: Petstore
   version: "1.0.1"
