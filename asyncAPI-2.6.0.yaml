@@ -1,8 +1,8 @@
 asyncapi: 2.6
 info:
   title: Petstore
-  version: 1.0.0
-  description: The PetStore running in Kafka
+  version: 1.0.1
+  description: The PetStore running in Kafka, AsyncAPI 2.6.0
 channels:
   petstore.order.added:
     publish:
@@ -220,4 +220,3 @@ components:
           type: string
       xml:
         name: "##default"
-
